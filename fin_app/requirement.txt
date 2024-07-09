@@ -1,0 +1,11 @@
+
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+pyperclip
+matplotlib
+numpy
+streamlit_lottie
+ollama

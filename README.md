@@ -2,6 +2,8 @@
 
 This Streamlit application provides a financial analysis based on company data. It scrapes financial data from the web and presents it in an interactive format. The application also features a conversational assistant named Yorkshire Umbra Vesper Azrael (YUVA), who provides detailed analysis in a unique, dark, and proud character style inspired by Wednesday Addams.
 
+![Alt text](GIF)
+
 ## Features
 
 - Scrapes financial data from the web, including income statements, balance sheets, cash flow statements, and financial ratios.
